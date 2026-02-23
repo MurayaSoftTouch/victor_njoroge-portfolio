@@ -1,0 +1,277 @@
+{
+  "profile": {
+    "name": "Victor Kirika Njoroge",
+    "title": "IT Professional | Software Developer | AI Specialist",
+    "email": "vkirika75@gmail.com",
+    "location": "Temple, Texas, USA",
+    "phone": "+1 (254) XXX-XXXX",
+    "linkedin": "linkedin.com/in/victorkirika",
+    "github": "github.com/victorkirika",
+    "avatar": "/avatar-placeholder.png",
+    "summary": "Results-driven IT professional with a Bachelor's degree in Computer Science and extensive experience in technical support, software development, and AI data training. Skilled in troubleshooting, systems optimization, and data-driven decision-making. Demonstrated ability to deliver efficient IT solutions, enhance digital infrastructure, and support business transformation. Passionate about AI innovation, automation, and emerging technologies."
+  },
+  "education": [
+    {
+      "id": 1,
+      "institution": "Swarthmore College",
+      "degree": "Bachelor of Science in Computer Science",
+      "location": "Swarthmore, PA",
+      "year": "2021",
+      "description": "Focused on algorithms, data structures, and software engineering principles."
+    },
+    {
+      "id": 2,
+      "institution": "Moringa School",
+      "degree": "Full Stack Software Development Program",
+      "location": "Nairobi, Kenya",
+      "year": "2022",
+      "description": "Intensive bootcamp covering modern web development technologies and frameworks."
+    },
+    {
+      "id": 3,
+      "institution": "Harvard College (Online)",
+      "degree": "Certificate in Computer Science Fundamentals",
+      "location": "Online",
+      "year": "2020",
+      "description": "Foundation in computer science concepts and programming fundamentals."
+    }
+  ],
+  "certifications": [
+    {
+      "id": 1,
+      "name": "AI Hackathon Week",
+      "issuer": "Safaricom, Kenya",
+      "year": "2020",
+      "description": "Intensive hands-on training in AI model development and deployment."
+    },
+    {
+      "id": 2,
+      "name": "Full Stack Software Development",
+      "issuer": "Moringa School",
+      "year": "2022",
+      "description": "Comprehensive training in modern web development stack."
+    },
+    {
+      "id": 3,
+      "name": "AI Ethics and Responsible Data Training",
+      "issuer": "DeepLearning.AI (Online)",
+      "year": "2023",
+      "description": "Understanding ethical considerations in AI development and deployment."
+    },
+    {
+      "id": 4,
+      "name": "Cloud Computing Basics",
+      "issuer": "Google Cloud Skills Boost",
+      "year": "2022",
+      "description": "Fundamentals of cloud infrastructure and services."
+    },
+    {
+      "id": 5,
+      "name": "Cybersecurity Fundamentals",
+      "issuer": "Coursera (Online)",
+      "year": "2021",
+      "description": "Core principles of information security and risk management."
+    }
+  ],
+  "experience": [
+    {
+      "id": 1,
+      "company": "Med Labs Boston",
+      "role": "IT Support Specialist",
+      "location": "Boston, MA",
+      "period": "2022 – 2025",
+      "responsibilities": [
+        "Provided end-to-end IT support, ensuring stable operations of laboratory systems.",
+        "Installed, configured, and maintained hardware and software systems.",
+        "Collaborated with vendors for cloud-based and cybersecurity solutions.",
+        "Managed troubleshooting requests using ticketing systems.",
+        "Automated recurring reporting tasks using Python and Excel VBA, increasing productivity by 30%."
+      ],
+      "technologies": ["Python", "Excel VBA", "Windows", "Linux", "Ticketing Systems"]
+    },
+    {
+      "id": 2,
+      "company": "Appen / TELUS International",
+      "role": "AI Annotator & Model Training Specialist",
+      "location": "Remote",
+      "period": "2021 – 2024",
+      "responsibilities": [
+        "Conducted AI data labeling, model evaluation, and prompt optimization.",
+        "Tested and refined conversational AI models for natural language understanding.",
+        "Supported supervised learning pipelines with annotation and data validation.",
+        "Improved model performance by 20% through QA checks and metadata structuring.",
+        "Ensured compliance with data privacy and AI ethics standards."
+      ],
+      "technologies": ["AI/ML", "NLP", "Data Annotation", "Python", "Quality Assurance"]
+    },
+    {
+      "id": 3,
+      "company": "Freelance",
+      "role": "IT Technician & Developer",
+      "location": "Remote & On-site",
+      "period": "2020 – 2022",
+      "responsibilities": [
+        "Designed and maintained websites using HTML, CSS, JavaScript, and APIs.",
+        "Built automation tools in Python to streamline workflows.",
+        "Configured LAN/WAN networks, routers, and operating systems for clients.",
+        "Integrated AI chatbots and analytics tools for customer engagement.",
+        "Conducted virtual training on IT maintenance and cybersecurity."
+      ],
+      "technologies": ["HTML/CSS", "JavaScript", "Python", "Networking", "APIs"]
+    },
+    {
+      "id": 4,
+      "company": "Safaricom PLC",
+      "role": "AI Data Training & Annotation Intern",
+      "location": "Nairobi, Kenya",
+      "period": "2019 – 2020",
+      "responsibilities": [
+        "Trained AI models through data labeling for speech, image, and text classification.",
+        "Performed dataset validation and quality assurance.",
+        "Identified and mitigated data bias to enhance AI fairness.",
+        "Applied practical knowledge in AI ethics and privacy."
+      ],
+      "technologies": ["AI/ML", "Data Labeling", "Python", "Quality Assurance"]
+    },
+    {
+      "id": 5,
+      "company": "Tech4Change Africa Initiative",
+      "role": "Volunteer IT Consultant",
+      "location": "Kenya",
+      "period": "2018 – 2019",
+      "responsibilities": [
+        "Trained students and teachers in computing and coding.",
+        "Set up IT infrastructure and open-source learning platforms.",
+        "Collaborated with NGOs to develop AI learning tools.",
+        "Promoted technology inclusion through community outreach."
+      ],
+      "technologies": ["IT Infrastructure", "Open Source", "Teaching", "Community Outreach"]
+    }
+  ],
+  "skills": {
+    "operatingSystems": [
+      { "name": "Windows", "level": 95 },
+      { "name": "macOS", "level": 90 },
+      { "name": "Linux", "level": 85 }
+    ],
+    "programming": [
+      { "name": "Python", "level": 90 },
+      { "name": "JavaScript", "level": 85 },
+      { "name": "HTML/CSS", "level": 95 },
+      { "name": "SQL", "level": 80 }
+    ],
+    "aiTools": [
+      { "name": "Appen", "level": 95 },
+      { "name": "TELUS International", "level": 90 },
+      { "name": "OpenAI", "level": 85 },
+      { "name": "Hugging Face", "level": 80 }
+    ],
+    "cloudPlatforms": [
+      { "name": "Google Cloud", "level": 80 },
+      { "name": "Microsoft Azure", "level": 75 },
+      { "name": "AWS", "level": 70 }
+    ],
+    "databases": [
+      { "name": "MySQL", "level": 85 },
+      { "name": "MS Access", "level": 90 }
+    ],
+    "networking": [
+      { "name": "LAN/WAN Setup", "level": 85 },
+      { "name": "Firewalls", "level": 80 },
+      { "name": "Cybersecurity Protocols", "level": 85 }
+    ],
+    "productivity": [
+      { "name": "Microsoft Office", "level": 95 },
+      { "name": "Google Workspace", "level": 95 },
+      { "name": "Jira", "level": 85 },
+      { "name": "Slack", "level": 90 }
+    ]
+  },
+  "projects": [
+    {
+      "id": 1,
+      "title": "AI-Integrated Educational Apps",
+      "description": "Developed AI-powered educational applications for underserved communities, featuring personalized learning paths and adaptive content delivery.",
+      "technologies": ["Python", "JavaScript", "React", "TensorFlow.js"],
+      "image": "/project-education.png",
+      "link": "https://github.com/victorkirika/edu-ai-apps",
+      "featured": true
+    },
+    {
+      "id": 2,
+      "title": "Task Management Web App",
+      "description": "Built a full-stack task management application with real-time updates, team collaboration features, and productivity analytics.",
+      "technologies": ["React", "Node.js", "MongoDB", "Socket.io"],
+      "image": "/project-task.png",
+      "link": "https://github.com/victorkirika/task-manager",
+      "featured": true
+    },
+    {
+      "id": 3,
+      "title": "Professional Portfolio Website",
+      "description": "Created a dynamic portfolio website showcasing projects, skills, and professional experience with modern UI/UX design.",
+      "technologies": ["React", "Tailwind CSS", "Framer Motion"],
+      "image": "/project-portfolio.png",
+      "link": "https://github.com/victorkirika/portfolio",
+      "featured": true
+    },
+    {
+      "id": 4,
+      "title": "AI Data Labeling Tool",
+      "description": "Developed an open-source tool for efficient AI data labeling with support for multiple annotation types and quality assurance features.",
+      "technologies": ["Python", "React", "PostgreSQL"],
+      "image": "/project-labeling.png",
+      "link": "https://github.com/victorkirika/ai-labeling-tool",
+      "featured": false
+    },
+    {
+      "id": 5,
+      "title": "IT Automation Scripts",
+      "description": "Collection of Python scripts for automating routine IT tasks including system monitoring, log analysis, and report generation.",
+      "technologies": ["Python", "PowerShell", "Bash"],
+      "image": "/project-automation.png",
+      "link": "https://github.com/victorkirika/it-automation",
+      "featured": false
+    }
+  ],
+  "achievements": [
+    {
+      "id": 1,
+      "title": "AI Hackathon Participant",
+      "description": "Participated in AI hackathons focused on ethical AI deployment and innovative solutions."
+    },
+    {
+      "id": 2,
+      "title": "Open Source Contributor",
+      "description": "Active contributor to open-source projects improving dataset labeling and model training."
+    },
+    {
+      "id": 3,
+      "title": "Community Leader",
+      "description": "Active contributor in AI and programming communities on GitHub and Kaggle."
+    },
+    {
+      "id": 4,
+      "title": "30% Productivity Increase",
+      "description": "Automated recurring reporting tasks using Python and Excel VBA at Med Labs Boston."
+    },
+    {
+      "id": 5,
+      "title": "20% Model Performance Improvement",
+      "description": "Improved AI model performance through QA checks and metadata structuring at Appen/TELUS."
+    }
+  ],
+  "competencies": [
+    "IT Systems Administration & Technical Support",
+    "AI Model Evaluation & Training",
+    "Data Analysis & Process Automation",
+    "Cloud Computing & Cybersecurity Awareness",
+    "Web & Software Development",
+    "Team Collaboration & Project Management"
+  ],
+  "contact": {
+    "email": "vkirika75@gmail.com",
+    "location": "Temple, Texas, USA",
+    "availability": "Open to opportunities"
+  }
+}
